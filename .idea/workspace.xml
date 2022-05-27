@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55feec43-ae84-4cfa-9d84-0585181bc84a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/Home.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="25" column="74" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/config/TestConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1143#1144#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/Logowanie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1653668423544" expanded="true" signature="774:859" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/Konto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/WebsiteTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>config</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/cofnig/WebDriverSingleton.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utility/Actions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utility/Screenshot.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cofnig/TestConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/confnig/WebDriverSingleton.java" />
+        <option value="$PROJECT_DIR$/src/test/java/config/WebDriverSingleton.java" />
+        <option value="$PROJECT_DIR$/src/test/java/config/TestConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/Konto.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/WebsiteTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/Home.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/Logowanie.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SeleniumBialystokonline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBialystokonline" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBialystokonline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBialystokonline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBialystokonline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBialystokonline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBialystokonline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBialystokonline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumBialystokonline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumBialystokonline" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android JUnit.WebsiteTest.userShouldLogin">
+    <configuration name="WebsiteTest.userShouldLogin" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBialystokonline" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.WebsiteTest" />
+      <option name="METHOD_NAME" value="userShouldLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebsiteTest.userShouldPassQuiz" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumBialystokonline" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.WebsiteTest" />
+      <option name="METHOD_NAME" value="userShouldPassQuiz" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.WebsiteTest.userShouldLogin" />
+        <item itemvalue="Android JUnit.WebsiteTest.userShouldPassQuiz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55feec43-ae84-4cfa-9d84-0585181bc84a" name="Default Changelist" comment="" />
+      <created>1653648307590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653648307590</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="WebsiteTest_userShouldLogin - 2022.05.27 at 15h 37m 33s.xml">
+      <configuration name="WebsiteTest.userShouldLogin" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="WebsiteTest_userShouldLogin - 2022.05.27 at 15h 42m 16s.xml">
+      <configuration name="WebsiteTest.userShouldLogin" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="WebsiteTest_userShouldLogin - 2022.05.27 at 15h 45m 07s.xml">
+      <configuration name="WebsiteTest.userShouldLogin" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="WebsiteTest_userShouldLogin - 2022.05.27 at 15h 46m 13s.xml">
+      <configuration name="WebsiteTest.userShouldLogin" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="WebsiteTest_userShouldLogin - 2022.05.27 at 15h 46m 41s.xml">
+      <configuration name="WebsiteTest.userShouldLogin" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="WebsiteTest_userShouldLogin - 2022.05.27 at 16h 16m 01s.xml">
+      <configuration name="WebsiteTest.userShouldLogin" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="WebsiteTest_userShouldLogin - 2022.05.27 at 16h 18m 24s.xml">
+      <configuration name="WebsiteTest.userShouldLogin" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="WebsiteTest_userShouldLogin - 2022.05.27 at 16h 20m 57s.xml">
+      <configuration name="WebsiteTest.userShouldLogin" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="WebsiteTest_userShouldLogin - 2022.05.27 at 16h 30m 03s.xml">
+      <configuration name="WebsiteTest.userShouldLogin" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="WebsiteTest_userShouldLogin - 2022.05.27 at 16h 56m 51s.xml">
+      <configuration name="WebsiteTest.userShouldLogin" configurationId="AndroidJUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19662163" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Project Explorer" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info id="Job Explorer" order="9" />
+      <window_info id="Learn" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4516129" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32991204" />
+      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/config/WebDriverSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utility/Screenshot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/allure-results/a92a5c4c-6221-4d17-b0dc-a0974b2ba20b-attachment.png" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/ce4e40cc-9581-4de1-abef-7ae899bc8b43-attachment.png" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/d03bbf9b-7586-41ea-a237-fb7e0aed67f9-attachment.png" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/JavascriptExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utility/Actions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/allure-results/c84b4917-e0a0-454e-b03b-5453ce97ac7c-attachment.png" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/9dce8985-a8db-43c5-92fc-e3547265f9a1-attachment.png" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/d9bb4212-f015-49af-9594-a75a5c00608f-attachment.png" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/ea6d856f-3f70-4a07-b61c-49071a0bf217-attachment.png" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/b9ac4dc6-66c6-49ff-99ae-9986ac1bd031-attachment.png" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/3daca1cf-4e80-4d1c-956f-6722204a86fe-attachment.png" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/6b979a8c-8538-4d67-87fa-0fdd1ac59873-attachment.png" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/e24cf83a-7fe0-4014-b4a9-83ee879f6d44-attachment.png" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/e954e465-8d4c-4740-9cb3-a0dd31097a30-attachment.png" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/46a80f1c-9d36-4763-b3cb-6e11c5a5807a-attachment.png" />
+    <entry file="file://$PROJECT_DIR$/target/allure-results/69932773-9567-4522-8fb3-d977587faa90-attachment.png" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/WebsiteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="25" column="74" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/config/TestConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1143#1144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/Logowanie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1653668423544" expanded="true" signature="774:859" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/Konto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
