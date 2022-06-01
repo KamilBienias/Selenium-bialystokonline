@@ -21,6 +21,6 @@ public class Konto extends BasePage {
         captureScreenshot();
         String expectedUserNameText = "scream";
         String userNameText = userName.getText();
-        Assertions.assertEquals(userNameText, expectedUserNameText);
+        Assertions.assertEquals(userNameText, expectedUserNameText, "That is wrong user name");
     }
 }

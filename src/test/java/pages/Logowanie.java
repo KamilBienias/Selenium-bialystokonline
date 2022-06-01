@@ -27,7 +27,7 @@ public class Logowanie extends BasePage{
         js.executeScript("arguments[0].scrollIntoView();", uzytkownikTextfield);//scrolls to visible this WebElement
         uzytkownikTextfield.sendKeys("scream");
         js.executeScript("arguments[0].scrollIntoView();", hasloTextfield);
-        hasloTextfield.sendKeys("hereIsMyPassword");
+        hasloTextfield.sendKeys("mojehaslo");
         js.executeScript("arguments[0].scrollIntoView();", wyslijButton);
         wyslijButton.click();
 
