@@ -1,7 +1,6 @@
 package pages;
 
-import org.hamcrest.core.IsEqual;
-import org.junit.Assert;
+import org.junit.jupiter.api.Assertions;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import ru.yandex.qatools.allure.annotations.Step;
@@ -22,6 +21,6 @@ public class Konto extends BasePage {
         captureScreenshot();
         String expectedUserNameText = "scream";
         String userNameText = userName.getText();
-        Assert.assertThat(userNameText, IsEqual.equalTo(expectedUserNameText));
+        Assertions.assertEquals(userNameText, expectedUserNameText);
     }
 }

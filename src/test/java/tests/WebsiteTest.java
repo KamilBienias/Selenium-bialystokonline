@@ -1,7 +1,8 @@
 package tests;
 
 import config.TestConfig;
-import org.junit.Test;
+
+import org.junit.jupiter.api.Test;
 import pages.Home;
 
 public class WebsiteTest extends TestConfig {

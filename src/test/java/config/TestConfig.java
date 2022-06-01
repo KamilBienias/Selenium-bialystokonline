@@ -1,8 +1,6 @@
 package config;
-import org.junit.After;
-import org.junit.AfterClass;
-import org.junit.Before;
-import org.junit.BeforeClass;
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 
@@ -10,13 +8,12 @@ import java.util.concurrent.TimeUnit;
 
 import static config.WebDriverSingleton.getInstance;
 import static config.WebDriverSingleton.quit;
-import static utility.Screenshot.captureScreenshot;
 
 public class TestConfig {//it does this before and after each test
 
     private WebDriver driver;
 
-    @Before
+    @BeforeEach
     public void setUp() {
         String baseUrl = "https://www.bialystokonline.pl/";
 
@@ -29,7 +26,7 @@ public class TestConfig {//it does this before and after each test
         driver.get(baseUrl);//opens website
     }
 
-    @After
+    @AfterEach
     public void tearDown() {
         quit();
     }
